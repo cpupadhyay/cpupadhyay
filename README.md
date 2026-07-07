@@ -1,4 +1,5 @@
-##  Hi there, I'm Chandra Prakash Upadhyay 👋
+## Hi there, I'm Chandra Prakash Upadhyay 👋
+
 📍 Bengaluru, India
 📧 chandraprakashupadhyay2001@gmail.com | 📱 +91-8303042121
 
@@ -6,7 +7,7 @@
 
 I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in **Data Analytics** and a strong passion for **Product Management**. I love turning raw data into actionable insights and building products that solve real user problems.
 
-- 🔭 Currently building **Chorus** — a product I'm deeply excited about
+- 🔭 Currently building **Chorus** — an AI deliberation product that makes multiple LLMs debate and synthesize one verified answer
 - 💼 Former **Data Analyst Intern @ Soroco** — built KPI dashboards, ran SQL analyses, collaborated with Product, Engineering & Customer Success teams
 - 🎯 Actively seeking **APM / Product Analyst** roles
 - 📊 I think in funnels, metrics, and user journeys
@@ -16,31 +17,28 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix EDA — Exploratory Data Analysis
-> Analyzed Netflix's content library to uncover trends in genres, release patterns, and content distribution across regions.
-- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Key Insight:** Identified peak content release windows and top-performing genres by region
+### 🎵 Chorus — AI Deliberation Product
+> An AI orchestration layer that routes one query to 6 frontier models (ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek), makes them debate, and returns one synthesized, confidence-scored answer.
+- **Deliverables:** PRD, dark-mode Figma wireframes, MoSCoW prioritization, pricing model
+- **North Star Metric:** Weekly Active Queries (WAQ)
+- 🔗 [Repo](https://github.com/cpupadhyay/Chorus-PM-Project-Case-Study)
 
----
+### 💳 Snapmint — BNPL Checkout Drop-off Case Study
+> Investigated why users abandon checkout on a Buy-Now-Pay-Later platform despite strong demand, and redesigned the flow around trust rather than price.
+- **Key Insight:** Lack of trust — not lack of intent — was driving drop-off (no reviews, no warranty visibility, no support)
+- **Expected Impact:** Conversion 3–5% → 12–15%, MAU +25%, cart abandonment −30%
+- 🔗 [Repo](https://github.com/cpupadhyay/Snapmint---A-Product-Case-Study)
 
-### 🍽️ Zomato Sentiment Analysis
-> Performed sentiment analysis on Zomato restaurant reviews to classify customer feedback and surface improvement areas.
-- **Tools:** Python (NLP, TextBlob / VADER), Pandas
-- **Key Insight:** Mapped sentiment trends to restaurant ratings to identify gaps between perception and score
+### 🍽️ Zomato — Retention Case Study
+> Diagnosed post-first-order churn and designed an ETA confidence system, an intelligent refund engine, and an AI loyalty engine focused on trust and habit formation over discounting.
+- **Expected Impact:** +25% orders per MAU, +15% retention
+- 🔗 [Repo](https://github.com/cpupadhyay/Zomato---Product-Case-Study)
 
----
-
-### 💳 American Express Dashboard
-> Built an interactive dashboard to track key financial KPIs and customer spending behavior.
-- **Tools:** Power BI / Tableau, Advanced Excel
-- **Key Insight:** Delivered visual spend segmentation enabling faster business decisions
-
----
-
-### 🎵 Chorus *(In Progress)*
-> A product currently under development — stay tuned for updates!
-- Focused on solving a real user problem from the ground up
-- Involves product thinking, wireframing, user research, and data-backed decision making
+### 💼 DreamJob — Fresher Job Marketplace Case Study
+> A marketplace prototype tackling low interview-conversion rates for 0–2 year candidates via skill-based scoring, recruiter-side filtering, and application tracking.
+- **North Star Metric:** Interview Conversion Rate
+- **Status:** Research & prototype stage (Figma)
+- 🔗 [Repo](https://github.com/cpupadhyay/DreamJob---Product-Case-Study)
 
 ---
 
@@ -49,6 +47,7 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 **Languages & Query**
 - Python
 - SQL
+
 **Data & Visualization**
 - Adv Excel
 - PowerBI
@@ -60,7 +59,7 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 - Matplotlib
 - Seaborn
 - Plotly
-  
+
 **Cloud & Tools**
 - AWS
 - Github
@@ -69,21 +68,23 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 - Figma
 - Notion
 - Google Analytics
+
 ---
 
 ## 📜 Certifications
 
-| Certification | Platform | Year |
-|---|---|---|
-| 🏅 Product Management | Aha! (via LinkedIn Learning) | Dec 2025 – Jan 2026 |
-| 📊 Data Analytics | PW Skills | Feb – Oct 2025 |
-| 🐍 Python for Data Analytics | Udemy | May 2024 – Feb 2025 |
+| Certification               | Platform                     | Year                |
+| --------------------------- | ----------------------------- | -------------------- |
+| 🏅 Product Management        | Aha! (via LinkedIn Learning)  | Dec 2025 – Jan 2026  |
+| 📊 Data Analytics            | PW Skills                     | Feb – Oct 2025       |
+| 🐍 Python for Data Analytics | Udemy                         | May 2024 – Feb 2025  |
 
 ---
 
 ## 📈 Currently
 
-- 🔨 Building **Chorus** — product in development
+- 🔨 Building out **Chorus** — from case study concept toward a working prototype
+- 🎯 Writing PM case studies (Snapmint, Zomato, DreamJob) to sharpen product thinking
 - 📚 Deepening skills in **Product Strategy, A/B Testing & Growth Analytics**
 - 🤝 Open to **APM, Product Analyst, Data Analyst** roles
 - 💬 Ask me about: SQL optimization, Power BI dashboards, product thinking, or cricket 🏏
