@@ -73,17 +73,19 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 
 ## 📜 Certifications
 
-| Certification               | Platform                     | Year                |
-| --------------------------- | ----------------------------- | -------------------- |
-| 🏅 Product Management        | Aha! (via LinkedIn Learning)  | Dec 2025 – Jan 2026  |
-| 📊 Data Analytics            | PW Skills                     | Feb – Oct 2025       |
-| 🐍 Python for Data Analytics | Udemy                         | May 2024 – Feb 2025  |
+| Certification                                                | Platform                      | Year                 |
+| -------------------------------------------------------------- | ------------------------------ | --------------------- |
+| 🔵 AI Product Manager Professional Certificate (In Progress)   | IBM                             | 2026                  |
+| 🏅 Product Management                                          | Aha! (via LinkedIn Learning)   | Dec 2025 – Jan 2026   |
+| 📊 Data Analytics                                               | PW Skills                      | Feb – Oct 2025        |
+| 🐍 Python for Data Analytics                                    | Udemy                          | May 2024 – Feb 2025   |
 
 ---
 
 ## 📈 Currently
 
 - 🔨 Building out **Chorus** — from case study concept toward a working prototype
+- 🎓 Pursuing the **IBM AI Product Manager Professional Certificate**
 - 🎯 Writing PM case studies (Snapmint, Zomato, DreamJob) to sharpen product thinking
 - 📚 Deepening skills in **Product Strategy, A/B Testing & Growth Analytics**
 - 🤝 Open to **APM, Product Analyst, Data Analyst** roles
