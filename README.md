@@ -7,7 +7,7 @@
 
 I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in **Data Analytics** and a strong passion for **Product Management**. I love turning raw data into actionable insights and building products that solve real user problems.
 
-- 🔭 Currently building **Chorus** — an AI deliberation product that makes multiple LLMs debate and synthesize one verified answer
+- 🔭 Currently building **Lychee** — an AI deliberation product that makes multiple LLMs debate and synthesize one verified answer
 - 💼 Former **Data Analyst Intern @ Soroco** — built KPI dashboards, ran SQL analyses, collaborated with Product, Engineering & Customer Success teams
 - 🎯 Actively seeking **APM / Product Analyst** roles
 - 📊 I think in funnels, metrics, and user journeys
@@ -17,11 +17,11 @@ I'm a **B.Tech CSE graduate** (SRMU Lucknow, 2023) with hands-on experience in *
 
 ## 🚀 Featured Projects
 
-### 🎵 Chorus — AI Deliberation Product
+### 🎵 Lychee — AI Deliberation Product
 > An AI orchestration layer that routes one query to 6 frontier models (ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek), makes them debate, and returns one synthesized, confidence-scored answer.
 - **Deliverables:** PRD, dark-mode Figma wireframes, MoSCoW prioritization, pricing model
 - **North Star Metric:** Weekly Active Queries (WAQ)
-- 🔗 [Repo](https://github.com/cpupadhyay/Chorus-PM-Project-Case-Study)
+- Link : (https://getlychee-ai.online)
 
 ### 💳 Snapmint — BNPL Checkout Drop-off Case Study
 > Investigated why users abandon checkout on a Buy-Now-Pay-Later platform despite strong demand, and redesigned the flow around trust rather than price.
